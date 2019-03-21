@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../VIP专享---2019期录播视频及资料/02架构师内功心法/04.委派模式及策略模式/课堂源码/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" filepath="$PROJECT_DIR$/../../VIP专享---2019期录播视频及资料/02架构师内功心法/04.委派模式及策略模式/课堂源码/gupaoedu-vip-pattern-strategy/gupaoedu-vip-pattern-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternStrategy.iml" filepath="$PROJECT_DIR$/patternStrategy.iml" />
+    </modules>
+  </component>
+</project>

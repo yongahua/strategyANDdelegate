@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../VIP专享---2019期录播视频及资料/02架构师内功心法/04.委派模式及策略模式/课堂源码/gupaoedu-vip-pattern-delegate/gupaoedu-vip-pattern-delegate.iml" filepath="$PROJECT_DIR$/../../VIP专享---2019期录播视频及资料/02架构师内功心法/04.委派模式及策略模式/课堂源码/gupaoedu-vip-pattern-delegate/gupaoedu-vip-pattern-delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternDelegate.iml" filepath="$PROJECT_DIR$/patternDelegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-framework-4.2.4.RELEASE.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-framework-4.2.4.RELEASE.iml" />
+    </modules>
+  </component>
+</project>

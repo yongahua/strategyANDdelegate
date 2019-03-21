@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="patternStrategy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="patternStrategy-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="patternStrategy:war exploded" />
+    </root>
+  </artifact>
+</component>
